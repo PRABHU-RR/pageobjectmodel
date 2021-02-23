@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35846" started-at="2021-02-23T21:00:49 IST" finished-at="2021-02-23T21:01:25 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35846" started-at="2021-02-23T21:00:49 IST" finished-at="2021-02-23T21:01:25 IST">
+      <class name="com.scipio.qa.test.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.scipio.qa.test.LoginPageTest@b51256]" name="setup" is-config="true" duration-ms="12272" started-at="2021-02-23T21:00:49 IST" finished-at="2021-02-23T21:01:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.scipio.qa.test.LoginPageTest@b51256]" name="loginPageTitleTest" duration-ms="36" started-at="2021-02-23T21:01:01 IST" finished-at="2021-02-23T21:01:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.scipio.qa.test.LoginPageTest@b51256]" name="tearDown" is-config="true" duration-ms="904" started-at="2021-02-23T21:01:01 IST" finished-at="2021-02-23T21:01:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.scipio.qa.test.LoginPageTest@b51256]" name="setup" is-config="true" duration-ms="10917" started-at="2021-02-23T21:01:02 IST" finished-at="2021-02-23T21:01:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="brandLogoImageTest()[pri:2, instance:com.scipio.qa.test.LoginPageTest@b51256]" name="brandLogoImageTest" duration-ms="195" started-at="2021-02-23T21:01:13 IST" finished-at="2021-02-23T21:01:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brandLogoImageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.scipio.qa.test.LoginPageTest@b51256]" name="tearDown" is-config="true" duration-ms="913" started-at="2021-02-23T21:01:13 IST" finished-at="2021-02-23T21:01:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.scipio.qa.test.LoginPageTest@b51256]" name="setup" is-config="true" duration-ms="8794" started-at="2021-02-23T21:01:14 IST" finished-at="2021-02-23T21:01:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.scipio.qa.test.LoginPageTest@b51256]" name="loginTest" duration-ms="806" started-at="2021-02-23T21:01:23 IST" finished-at="2021-02-23T21:01:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.scipio.qa.test.LoginPageTest@b51256]" name="tearDown" is-config="true" duration-ms="912" started-at="2021-02-23T21:01:24 IST" finished-at="2021-02-23T21:01:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.scipio.qa.test.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
